@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_start/api_service/api_service.dart';
-import 'package:new_start/models/post_model.dart';
+import 'package:new_start/navigation_two/api_service/api_service.dart';
+import 'package:new_start/navigation_two/models/post_model.dart';
 
 class ApiData extends StatefulWidget {
   ApiData({Key? key}) : super(key: key);
